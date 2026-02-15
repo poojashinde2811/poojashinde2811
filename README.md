@@ -1,10 +1,9 @@
 
 
 
-<h1 align="center">
-  <span style="color:#6C63FF;">Hi, I'm</span> 
-  <span style="color:#FF4B91;">Pooja Shinde</span> 👋
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4B91&height=200&section=header&text=Pooja%20Shinde&fontSize=40&fontColor=ffffff" />
+</p>
 
 <h3 align="center">💻 Frontend Developer | 🌐 HTML | 🎨 CSS | 🚀 UI/UX Enthusiast</h3>
 
@@ -69,4 +68,4 @@ Built using *HTML & CSS*.
 
 ---
 
-⭐ Keep learning, keep building, keep growing
+⭐ Keep learning, keep building, keep growing.
