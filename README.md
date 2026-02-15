@@ -1,6 +1,3 @@
-
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4B91&height=200&section=header&text=Pooja%20Shinde&fontSize=40&fontColor=ffffff" />
 </p>
@@ -15,6 +12,19 @@
 🎨 Interested in clean and modern UI/UX design  
 📚 Hands-on experience through real frontend projects  
 🚀 Continuously learning and improving frontend development skills  
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=poojashinde2811&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=poojashinde2811&theme=radical" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=poojashinde2811&theme=radical" />
+</p>
 
 ---
 
